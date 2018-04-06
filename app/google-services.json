@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "969471791696",
+    "firebase_url": "https://maps-99c8b.firebaseio.com",
+    "project_id": "maps-99c8b",
+    "storage_bucket": "maps-99c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969471791696:android:61670e6282858249",
+        "android_client_info": {
+          "package_name": "com.example.soulreaper.accidentalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969471791696-k5m95p6ug2qhj2rtgffjta5k0mn1s6cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulreaper.accidentalert",
+            "certificate_hash": "dab98ea14923629efe3b16ad627c89b7926255c4"
+          }
+        },
+        {
+          "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_v9LU4BOBNGL0EM3cqOrj2rnkIzt6Ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969471791696:android:d860074095dbffda",
+        "android_client_info": {
+          "package_name": "com.example.soulreaper.accidentalert5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969471791696-ivc7s81gbqi6c6d720h7posfkcr8ngj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulreaper.accidentalert5",
+            "certificate_hash": "dab98ea14923629efe3b16ad627c89b7926255c4"
+          }
+        },
+        {
+          "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_v9LU4BOBNGL0EM3cqOrj2rnkIzt6Ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969471791696:android:08691bfaae88f58f",
+        "android_client_info": {
+          "package_name": "com.example.soulreaper.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969471791696-0ijk1k7flur1ifqtksa053baotl3tqng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulreaper.tracker",
+            "certificate_hash": "dab98ea14923629efe3b16ad627c89b7926255c4"
+          }
+        },
+        {
+          "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_v9LU4BOBNGL0EM3cqOrj2rnkIzt6Ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969471791696:android:97baf6a3021d618a",
+        "android_client_info": {
+          "package_name": "com.example.soulreaper.transportdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969471791696-72tabevg0jeqrist85sg5l8c09ki1goj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulreaper.transportdisplay",
+            "certificate_hash": "dab98ea14923629efe3b16ad627c89b7926255c4"
+          }
+        },
+        {
+          "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_v9LU4BOBNGL0EM3cqOrj2rnkIzt6Ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969471791696-v4q7d9b3d04o6v9o41g32tomisd34ahd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
